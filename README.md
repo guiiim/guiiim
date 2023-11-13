@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 <p align="left"> <i>
 Solid knowledge of UI/UX. <br>
 Work experience in: <br>
-<pre>Development of digital applications with Power Apps and C#.
-Data Viz with Power BI.
-Development of RPAs with UiPath, Power Automate and VBA.
-Management and implementation of digital projects.
-Agile and waterfall frameworks.
-Design Thinking.
+&emsp;Development of digital applications with Power Apps and C#.
+&emsp;Data Viz with Power BI.
+&emsp;Development of RPAs with UiPath, Power Automate and VBA.
+&emsp;Management and implementation of digital projects.
+&emsp;Agile and waterfall frameworks.
+&emsp;Design Thinking.
 </i></p>
