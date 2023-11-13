@@ -60,8 +60,8 @@ Work experience in:
                 <img src="sources/Python.ico" alt="c" width="40" height="40" /> 
         </a> 
 </p>
-<h4 align="center">Intermediate</h4>
-<p align="center">
+<h4 align="left">Intermediate</h4>
+<p align="left">
         <a href="#" target="_blank" rel="noreferrer"> 
                 <img src="sources/SQLServer.ico" alt="c" width="40" height="40" /> 
         </a> 
@@ -81,8 +81,8 @@ Work experience in:
                 <img src="sources/PowerPlatform.svg" alt="c" width="40" height="40" /> 
         </a>
 </p>
-<h4 align="right">Advanced</h4>
-<p align="right">
+<h4 align="left">Advanced</h4>
+<p align="left">
         <a href="#" target="_blank" rel="noreferrer"> 
                 <img src="sources/Office365.ico" alt="c" width="40" height="40" /> 
         </a> 
