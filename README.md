@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="midle" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h1 align="center">Hi 👋, I'm Guilherme Magalhães</h1>
 <h3 align="center">Microsoft Power Platform Tech Lead</h3>
 <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
