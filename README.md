@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Guilherme Magalhães</h1>
 <h3 align="center">Microsoft Power Platform Tech Lead</h3>
 <p align="center">I am a Computer Engineer, digital enthusiasts, self-taught and can work alone or with teams. <br>Moved by challenges and open to every new experience.</p>
-<br>
-<p align="center"><i>Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit. </i></p>
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<p align="center"><i>Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit. </i></p>
+
