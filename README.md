@@ -95,7 +95,7 @@ Work experience in:
         <a href="#" target="_blank" rel="noreferrer"> 
                 <img src="sources/PowerAutomate.svg" alt="c" width="40" height="40" /> 
         </a> 
-
+</p>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -105,7 +105,7 @@ Work experience in:
 </p>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="#">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
