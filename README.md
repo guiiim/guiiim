@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 
 <img width="300px" height="300px" align="left" src="sources/Programming-amico.svg"/>
 
-<p align="center"> <i>
+<p align="center">
+    <br><br> 
+        Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit.
+</p>
+
 <br>
-<br> 
-    Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit.
-<br>
-</i></p>
+
 <p align="left"> <i>
 Solid knowledge of UI/UX. <br>
 Work experience in:
