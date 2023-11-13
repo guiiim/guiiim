@@ -22,4 +22,15 @@ Here are some ideas to get you started:
 
 <img width="300px" height="300px" align="left" src="sources/Programming-amico.svg"/>
 
-<p align="right" justify="center"><i><br><br> Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit. </i></p>
+<p align="right" justify="center"><i><br><br> 
+    Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit.
+<br>
+    Solid knowledge of UI/UX. <br>
+    Work experience in: <br>
+     Development of digital applications with Power Apps and C#. <br>
+     Data Viz with Power BI. <br>
+     Development of RPAs with UiPath, Power Automate and VBA. <br>
+     Management and implementation of digital projects. <br>
+     Agile and waterfall frameworks. <br>
+     Design Thinking. <br>
+</i></p>
