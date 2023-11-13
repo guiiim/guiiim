@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Guilherme Magalhães</h1>
 <h3 align="center">Microsoft Power Platform Tech Lead</h3>
 <p align="center">I am a Computer Engineer, digital enthusiasts, self-taught and can work alone or with teams. <br>Moved by challenges and open to every new experience.</p>
-
+<br><br>
 <img width="300px" height="300px" align="left" src="sources/Programming-amico.svg"/>
 
 <p align="center">
