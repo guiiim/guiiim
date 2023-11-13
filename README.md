@@ -36,3 +36,82 @@ Work experience in:
 <br>&emsp;Agile and waterfall frameworks.
 <br>&emsp;Design Thinking.
 </i></p>
+
+<br><br>
+
+<h3 align="left">
+        Languages & Tools        
+</h3>
+<h4 align="left">Basic</h4>
+<p align="left"> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/Project.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/Visio.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/C.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/R.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/Python.ico" alt="c" width="40" height="40" /> 
+        </a> 
+</p>
+<h4 align="left">Intermediate</h4>
+<p align="center">
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/SQLServer.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/SAP.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/UiPath.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/VBA.ico" alt="c" width="40" height="40" /> 
+        </a>
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/Dataverse.svg" alt="c" width="40" height="40" /> 
+        </a>
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/PowerPlatform.svg" alt="c" width="40" height="40" /> 
+        </a>
+</p>
+<h4 align="left">Advanced</h4>
+<p align="right">
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/Office365.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/PowerBI.ico" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/PowerApps.svg" alt="c" width="40" height="40" /> 
+        </a> 
+        <a href="#" target="_blank" rel="noreferrer"> 
+                <img src="sources/PowerAutomate.svg" alt="c" width="40" height="40" /> 
+        </a> 
+
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-augusto-magalhães" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
